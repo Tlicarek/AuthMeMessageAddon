@@ -782,9 +782,9 @@
         <dependency>
             <groupId>com.onarandombox.multiversecore</groupId>
             <artifactId>Multiverse-Core</artifactId>
-            <version>4.3.1</version>
-            <type>jar</type>
-            <scope>provided</scope>
+            <version>5.0.2</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/Multiverse-Core-5.0.2.jar</systemPath>
             <optional>true</optional>
             <exclusions>
                 <exclusion>
