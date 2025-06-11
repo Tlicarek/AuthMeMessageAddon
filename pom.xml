@@ -784,7 +784,7 @@
             <artifactId>Multiverse-Core</artifactId>
             <version>5.0.2</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/libs/Multiverse-Core-5.0.2.jar</systemPath>
+            <systemPath>${project.basedir}/libs/multiverse-core-5.0.2.jar</systemPath>
             <optional>true</optional>
             <exclusions>
                 <exclusion>
